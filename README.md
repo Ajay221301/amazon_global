@@ -2,7 +2,7 @@
 
 An interactive dashboard built using Power BI to analyze global sales, profit, and customer behavior using the **Global Superstore** dataset. This project focuses on deriving actionable insights through visual storytelling and data modeling.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](amazon.png)
 
 ---
 
@@ -56,9 +56,7 @@ The dataset used is the **Global Superstore** dataset, widely used in BI project
 
 ---
 
-## 📷 Dashboard Snapshot
 
-> _To explore the dashboard, download the `.pbix` file and open it using Power BI Desktop._
 
 
 
